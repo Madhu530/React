@@ -1,2 +1,2 @@
 # React
-the detailed function
+the detailed function and class component 
